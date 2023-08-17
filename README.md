@@ -1,5 +1,5 @@
 <h1 align="center">Hello! I'm Rifat Shadman</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Software Testing || Data Analysis</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rifatshadmanbjit&label=Profile%20views&color=0e75b6&style=flat" alt="rifatshadmanbjit" /> </p>
 
